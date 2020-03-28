@@ -1,0 +1,7 @@
+.navbar, .footer {
+  background-color: black;
+}
+
+.navbar-brand, .footer {
+  color: white;
+}
