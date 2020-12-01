@@ -1,5 +1,9 @@
 # Ссылка на основной репозиторий проекта
 Здесь в папке src доступен исходный код.
 Командой было решено создать отдельный репозиторий для РК, чтобы не нарушать структуру проекта на основном репозитории для корректной сборки.
-https://github.com/dimalemur/PolyProfile.git
 
+Репозиторий проекта (ReactJS, текущий для верстки)
+https://github.com/dimalemur/PolyprofilePractic
+
+Репозиторий проекта (TypeScript)
+https://github.com/dimalemur/polyteacher
